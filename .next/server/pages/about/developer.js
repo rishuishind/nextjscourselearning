@@ -1,7 +1,7 @@
 module.exports =
 /******/ (function(modules) { // webpackBootstrap
 /******/ 	// The module cache
-/******/ 	var installedModules = require('../ssr-module-cache.js');
+/******/ 	var installedModules = require('../../ssr-module-cache.js');
 /******/
 /******/ 	// The require function
 /******/ 	function __webpack_require__(moduleId) {
@@ -88,20 +88,20 @@ module.exports =
 /******/
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = "./pages/news.js");
+/******/ 	return __webpack_require__(__webpack_require__.s = "./pages/about/developer.js");
 /******/ })
 /************************************************************************/
 /******/ ({
 
-/***/ "./pages/news.js":
-/*!***********************!*\
-  !*** ./pages/news.js ***!
-  \***********************/
+/***/ "./pages/about/developer.js":
+/*!**********************************!*\
+  !*** ./pages/about/developer.js ***!
+  \**********************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-dev-runtime */ \"react/jsx-dev-runtime\");\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__);\n\nvar _jsxFileName = \"/home/rishabh/Desktop/Rishu/nextJS/nextjscourse/pages/news.js\";\n\nconst newsPage = () => {\n  return /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__[\"jsxDEV\"])(\"h1\", {\n    children: \"The news page\"\n  }, void 0, false, {\n    fileName: _jsxFileName,\n    lineNumber: 2,\n    columnNumber: 12\n  }, undefined);\n};\n\n/* harmony default export */ __webpack_exports__[\"default\"] = (newsPage);//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9wYWdlcy9uZXdzLmpzPzJhYmYiXSwibmFtZXMiOlsibmV3c1BhZ2UiXSwibWFwcGluZ3MiOiI7Ozs7OztBQUFBLE1BQU1BLFFBQVEsR0FBRyxNQUFNO0FBQ25CLHNCQUFPO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBLGVBQVA7QUFDSCxDQUZEOztBQUllQSx1RUFBZiIsImZpbGUiOiIuL3BhZ2VzL25ld3MuanMuanMiLCJzb3VyY2VzQ29udGVudCI6WyJjb25zdCBuZXdzUGFnZSA9ICgpID0+IHtcbiAgICByZXR1cm4gPGgxPlRoZSBuZXdzIHBhZ2U8L2gxPlxufVxuXG5leHBvcnQgZGVmYXVsdCBuZXdzUGFnZTsiXSwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///./pages/news.js\n");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-dev-runtime */ \"react/jsx-dev-runtime\");\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__);\n\nvar _jsxFileName = \"/home/rishabh/Desktop/Rishu/nextJS/nextjscourse/pages/about/developer.js\";\n\nconst DeveloperPage = () => {\n  return /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__[\"jsxDEV\"])(\"h1\", {\n    children: \"Hello my name is Rishabh Sharma\"\n  }, void 0, false, {\n    fileName: _jsxFileName,\n    lineNumber: 2,\n    columnNumber: 12\n  }, undefined);\n};\n\n/* harmony default export */ __webpack_exports__[\"default\"] = (DeveloperPage);//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9wYWdlcy9hYm91dC9kZXZlbG9wZXIuanM/OTUwYiJdLCJuYW1lcyI6WyJEZXZlbG9wZXJQYWdlIl0sIm1hcHBpbmdzIjoiOzs7Ozs7QUFBQSxNQUFNQSxhQUFhLEdBQUcsTUFBTTtBQUN4QixzQkFBTztBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQSxlQUFQO0FBQ0gsQ0FGRDs7QUFJZUEsNEVBQWYiLCJmaWxlIjoiLi9wYWdlcy9hYm91dC9kZXZlbG9wZXIuanMuanMiLCJzb3VyY2VzQ29udGVudCI6WyJjb25zdCBEZXZlbG9wZXJQYWdlID0gKCkgPT4ge1xuICAgIHJldHVybiA8aDE+SGVsbG8gbXkgbmFtZSBpcyBSaXNoYWJoIFNoYXJtYTwvaDE+XG59XG5cbmV4cG9ydCBkZWZhdWx0IERldmVsb3BlclBhZ2U7Il0sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///./pages/about/developer.js\n");
 
 /***/ }),
 
